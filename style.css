@@ -1,0 +1,101 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Ubuntu+Sans+Mono:ital,wght@0,400..700;1,400..700&display=swap');
+body{
+    height: 100;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background: white;
+    font-family: 'Oswald', sans-serif;
+}
+header, footer {
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+footer{
+    border-top: solid 1px;
+    background: darkblue;
+    color:white;
+    width: 100%;
+    padding-top: 10px;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+    font-size: 6;
+    font-family: 'Oswald', sans-serif;
+}
+.welcome{
+    box-shadow: 0 0 0 100vmax #d3d3d3;
+    clip-path: inset(0 -100vmax);
+    background-color: lightgrey;
+}
+.welcome h1{
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    background-color: lightgrey;
+    background-size: 250px; /* Tamaño del fondo */
+    background-repeat: repeat; /* Repetir el fondo */
+    font-family: "Ubuntu Sans Mono", monospace;
+    color: #1A237E; /* Color del texto (blanco) */
+    text-shadow: 2px 2px 0px #ffffff,
+                 4px 4px 0px #ffffff,
+                 6px 6px 0px #ffffff,
+                 8px 8px 0px #4669D5,
+                 10px 10px 0px #5176EB; /* Sombra de texto */
+    padding-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#about-me{
+      box-shadow: 0 0 0 100vmax #121212;
+      clip-path: inset(0 -100vmax);
+}
+#about-me p{
+    font-size: 250%; /* Tamaño de fuente igual al tamaño de fuente predeterminado del navegador */
+    background-color: #121212;
+    color:white;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+.container{
+    display: flex;
+    position:relative;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+    height: 400px;
+    background-color: #0a0a23;
+    text-align: center;
+}
+.container img{
+    display: block;
+    position: absolute;
+    width: 300px;
+    margin:auto;
+}
+#face-photo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+#projects{
+    display: block;
+    position: relative;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+#projects h2{
+    font-size: 250%;
+}
+.little-logo{
+    width: 30px; /* Ancho de la imagen */
+    height: auto; /* Altura automática para mantener la proporción */
+    margin-right: 10px;
+}
