@@ -1,7 +1,3 @@
-Aquí tienes un README mejorado y profesional que destaca tus habilidades y proyectos de manera clara y atractiva:  
-
----
-
 # [jmpanper.github.io](https://jmpanper.github.io)
 
 Welcome to my portfolio!  
@@ -23,17 +19,10 @@ Hello! I'm **José Miguel Panadero Pérez**, a passionate developer with experti
 This portfolio is built with:  
 
 - **Frontend:** HTML5, CSS3, JavaScript  
-- **Backend:** Node.js, Python, or [insert backend technology]  
-- **Database Management:** MySQL, PostgreSQL, MongoDB  
+- **Backend:** Java, Python, C++, C#, Kotlin
+- **Database Management:** MySQL, SQL Server, MongoDB  
 - **Version Control:** Git and GitHub  
 
-## 🚀 Projects  
-
-Explore a variety of projects, including:  
-
-- **[Project Name](link):** Brief description of the project, its features, and technologies used.  
-- **[Project Name](link):** Brief description of the project, its features, and technologies used.  
-- **[Project Name](link):** Brief description of the project, its features, and technologies used.  
 
 ## 🌐 Visit  
 
