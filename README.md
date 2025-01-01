@@ -1,41 +1,35 @@
 # [jmpanper.github.io](https://jmpanper.github.io)
 
-Welcome to my portfolio!  
-This is the place where I showcase the projects I've built and the skills I've honed as a **Backend Developer**, **Fullstack Developer**, and **System Administrator**.  
+¡Bienvenido a mi portfolio!  
+Este es el lugar donde muestro los proyectos que he desarrollado y las habilidades que he perfeccionado como **Desarrollador Backend**, **Desarrollador Fullstack** y **Administrador de Sistemas**.  
 
-## 🔗 About Me  
+## 🔗 Sobre mí  
 
-Hello! I'm **José Miguel Panadero Pérez**, a passionate developer with expertise in backend development, fullstack solutions, and system administration. My goal is to create efficient, scalable, and innovative solutions that drive success and growth.  
+¡Hola! Soy **José Miguel Panadero Pérez**, un desarrollador apasionado con experiencia en desarrollo backend, soluciones fullstack y administración de sistemas. Mi objetivo es crear soluciones eficientes, escalables e innovadoras que impulsen el éxito y el crecimiento.  
 
-## 🌟 Features  
+## 🌟 Funcionalidades  
 
-- **Projects Showcase:** A curated list of personal and professional projects that demonstrate my technical expertise.  
-- **Skills Overview:** Highlights of my technical stack and proficiencies.  
-- **Responsive Design:** Optimized for desktop and mobile users.  
-- **Interactive Elements:** Engaging UI and dynamic features for a seamless experience.  
+- **Muestra de Proyectos:** Una lista seleccionada de proyectos personales y profesionales que demuestran mi experiencia técnica.  
+- **Resumen de Habilidades:** Puntos destacados de mi stack tecnológico y competencias.  
+- **Diseño Responsivo:** Optimizado para usuarios de escritorio y móviles.  
+- **Elementos Interactivos:** UI atractiva y características dinámicas para una experiencia fluida.  
 
-## 🛠️ Technologies  
+## 🛠️ Tecnologías  
 
-This portfolio is built with:  
+Este portfolio está construido con:  
 
 - **Frontend:** HTML5, CSS3, JavaScript  
-- **Backend:** Java, Python, C++, C#, Kotlin
-- **Database Management:** MySQL, SQL Server, MongoDB  
-- **Version Control:** Git and GitHub  
+- **Backend:** Java, Python, C++, C#, Kotlin  
+- **Gestión de Bases de Datos:** MySQL, SQL Server, MongoDB  
+- **Control de Versiones:** Git y GitHub  
 
+## 🌐 Visítame  
 
-## 🌐 Visit  
+Consulta mi portfolio en vivo aquí: [jmpanper.github.io](https://jmpanper.github.io)  
 
-Check out my live portfolio here: [jmpanper.github.io](https://jmpanper.github.io)  
+## 📬 Contacto  
 
-## 📬 Contact  
+No dudes en ponerte en contacto para colaboraciones, oportunidades o simplemente para saludar:  
 
-Feel free to reach out for collaborations, job opportunities, or just to say hi:  
-
-- **Email:** [your-email@example.com](mailto:jmpp2k8@gmail.com  
-- **LinkedIn:** [your-profile-link](https://www.linkedin.com/in/jmpanaderoperez)  
-- **GitHub:** [jmpanper](https://github.com/jmpanper)  
-
----
-
-Personaliza las secciones marcadas con tus datos reales y proyectos. Si quieres, puedo ayudarte con la descripción de algún proyecto específico o con cualquier ajuste. 😊
+- **Correo Electrónico:** [jmpp2k8@gmail.com]  
+- **LinkedIn:** [https://www.linkedin.com/in/jmpanaderoperez]
